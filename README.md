@@ -8,7 +8,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-This project focuses on building an end-to-end data pipeline for Customer Shopping Trends data, including data extraction from Kaggle, transformation using PySpark, loading to MongoDB, and automation using Apache Airflow. Pre-automation steps include exploratory data analysis (EDA) and data validation using Great Expectations.
+Proyek ini berfokus dalam membuat pipeline data end-to-end dengan data Customer Shopping Trends yang mengekstraksi data pada Kaggle, transformasi menggunakan PySpark, pemuatan (loading) ke MongoDB, serta otomatisasi menggunakan Apache Airflow. Tahap pra-otomatisasi meliputi exploratory data analysis (EDA) dan validasi data menggunakan Great Expectations.
 
 ---
 
