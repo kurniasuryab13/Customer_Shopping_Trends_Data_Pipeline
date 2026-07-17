@@ -34,9 +34,9 @@ Proyek ini berfokus dalam membuat pipeline data end-to-end dengan data Customer 
 
 Proyek ini membuat pipeline ETL (Extract, Transform, Load) otomatis untuk data Customer Shopping Trends. Pipeline ini melakukan:
 
-Extract —> mengambil data dari Kaggle
-Transform —> mentransformasi data menggunakan PySpark
-Load —> memuat data hasil transformasi ke MongoDB
+- Extract —> mengambil data dari Kaggle
+- Transform —> mentransformasi data menggunakan PySpark
+- Load —> memuat data hasil transformasi ke MongoDB
 
 Seluruh proses ini diorkestrasi (dijadwalkan dan dikelola) menggunakan Apache Airflow yang dijalankan di atas Docker.
 Sebelum tahap otomasi, ada langkah pra-proses yang mencakup EDA (Exploratory Data Analysis), eksplorasi data untuk memahami pola, distribusi, dan anomali, serta Data validation menggunakan Great Expectations, untuk memastikan kualitas dan konsistensi data sebelum masuk ke pipeline otomatis.
