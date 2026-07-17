@@ -1,4 +1,4 @@
-# 📊 Customer Shopping Trends Data Pipeline
+# 📊 Data Pipeline of Customer Shopping Trends 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
@@ -30,9 +30,16 @@ Proyek ini berfokus dalam membuat pipeline data end-to-end dengan data Customer 
 
 ---
 
-# 📌 Project Overview
+# 📌 Gambaran Project
 
-This project builds an automated ETL pipeline for Customer Shopping Trends data. The pipeline extracts data from Kaggle, transforms it using PySpark, and loads it into MongoDB — all orchestrated with Apache Airflow running on Docker. Pre-automation steps include EDA and data validation using Great Expectations.
+Proyek ini membuat pipeline ETL (Extract, Transform, Load) otomatis untuk data Customer Shopping Trends. Pipeline ini melakukan:
+
+Extract —> mengambil data dari Kaggle
+Transform —> mentransformasi data menggunakan PySpark
+Load —> memuat data hasil transformasi ke MongoDB
+
+Seluruh proses ini diorkestrasi (dijadwalkan dan dikelola) menggunakan Apache Airflow yang dijalankan di atas Docker.
+Sebelum tahap otomasi, ada langkah pra-proses yang mencakup EDA (Exploratory Data Analysis), eksplorasi data untuk memahami pola, distribusi, dan anomali, serta Data validation menggunakan Great Expectations, untuk memastikan kualitas dan konsistensi data sebelum masuk ke pipeline otomatis.
 
 ## 1. Extract
 Dataset diunduh dari Kaggle menggunakan library `kagglehub`, kemudian disalin ke folder `/opt/airflow/data/` agar dapat diakses oleh Airflow dalam proses selanjutnya.
