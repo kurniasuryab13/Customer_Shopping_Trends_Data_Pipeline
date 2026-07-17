@@ -102,7 +102,7 @@ MONGO_DB=<nama_database>
 MONGO_COLLECTION=<nama_collection>
 ```
 
-> Ganti `<username>`, `<password>`, `<host>`, `<nama_database>`, dan `<nama_collection>` sesuai kredensial MongoDB kamu.  
+> Ganti `<username>`, `<password>`, `<host>`, `<nama_database>`, dan `<nama_collection>` sesuai kredensial MongoDB anda.  
 > Jangan lupa tambahkan `.env` ke `.gitignore` agar kredensial tidak ter-push ke GitHub.
 
 ## 3. Jalankan Apache Airflow dengan Docker
