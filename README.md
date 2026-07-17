@@ -14,17 +14,17 @@ Proyek ini berfokus dalam membuat pipeline data end-to-end dengan data Customer 
 
 # 📑 Daftar Isi
 
-1. [Dataset Link](#-dataset-link)
+1. [Link Dataset](#-Link-Dataset)
 2. [Gambaran Project](#-gambaran-project)
 3. [Metode Yang Digunakan](#️-Metode-Yang-Digunakan)
 4. [List File](#-list-file)
-5. [How to Run](#-how-to-run)
+5. [Cara Menjalankannya](#-Cara-Menjalankannya)
 6. [Libraries](#-libraries)
 7. [Author](#-author)
 
 ---
 
-# 🔗 Dataset Link
+# 🔗 Link Dataset
 
 - [Customer Shopping Trends Dataset](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset)
 
@@ -85,7 +85,7 @@ Sebelum pipeline diotomasi, dilakukan eksplorasi data sederhana, data cleaning, 
 
 ---
 
-# 💻 How to Run
+# 💻 Cara Menjalankannya
 
 ## 1. Clone repository ini
 
