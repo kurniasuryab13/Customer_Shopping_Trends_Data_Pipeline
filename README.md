@@ -12,11 +12,11 @@ Proyek ini berfokus dalam membuat pipeline data end-to-end dengan data Customer 
 
 ---
 
-# 📑 Table of Contents
+# 📑 Daftar Isi
 
 1. [Dataset Link](#-dataset-link)
-2. [Project Overview](#-project-overview)
-3. [Methods Used](#️-methods-used)
+2. [Gambaran Project](#-gambaran-project)
+3. [Metode Yang Digunakan](#️-Metode-Yang-Digunakan)
 4. [List File](#-list-file)
 5. [How to Run](#-how-to-run)
 6. [Libraries](#-libraries)
@@ -58,7 +58,7 @@ Sebelum pipeline diotomasi, dilakukan eksplorasi data sederhana, data cleaning, 
 
 ---
 
-# ⚒️ Methods Used
+# ⚒️ Metode Yang Digunakan
 
 - Exploratory Data Analysis (EDA)
 - Data Transformation with PySpark
