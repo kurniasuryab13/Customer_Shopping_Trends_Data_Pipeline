@@ -1,4 +1,4 @@
-# 📊 Data Pipeline of Customer Shopping Trends 
+# 📊 Proyek Data Pipeline dari Trend Penjualan Kostumer
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
