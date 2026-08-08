@@ -1,4 +1,4 @@
-# 📊 Proyek Data Pipeline dari Trend Penjualan Kostumer
+# 📊 Pembuatan Data Pipeline dari Trend Penjualan Kostumer
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
@@ -8,7 +8,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-Proyek ini berfokus dalam membuat pipeline data end-to-end dengan data Customer Shopping Trends yang mengekstraksi data pada Kaggle, transformasi menggunakan PySpark, pemuatan (loading) ke MongoDB, serta otomatisasi menggunakan Apache Airflow. Tahap pra-otomatisasi meliputi exploratory data analysis (EDA) dan validasi data menggunakan Great Expectations (GX).
+Project ini berfokus dalam membuat pipeline data end-to-end dengan menggunakan data Customer Shopping Trends dari Kaggle. Dimana proses diawali dengan melakukan transformasi menggunakan PySpark, pemuatan (loading) ke MongoDB, serta otomatisasi menggunakan Apache Airflow. Tahap pra-otomatisasi meliputi exploratory data analysis (EDA) dan validasi data menggunakan Great Expectations (GX).
 
 ---
 
