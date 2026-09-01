@@ -38,7 +38,7 @@ Proyek ini membuat pipeline ETL (Extract, Transform, Load) otomatis untuk data C
 - Transform —> mentransformasi data menggunakan PySpark
 - Load —> memuat data hasil transformasi ke MongoDB
 
-Seluruh proses ini diorkestrasi (dijadwalkan dan dikelola) menggunakan Apache Airflow yang dijalankan di atas Docker.
+Seluruh proses ini diorkestrasi (dijadwalkan dan dikelola) menggunakan Apache Airflow yang dijalankan setelah Docker dioperasikan.
 Sebelum tahap otomasi, ada langkah pra-proses yang mencakup EDA (Exploratory Data Analysis), eksplorasi data untuk memahami pola, distribusi, dan anomali, serta Data validation menggunakan Great Expectations, untuk memastikan kualitas dan konsistensi data sebelum masuk ke pipeline otomatis.
 
 ## 1. Extract
