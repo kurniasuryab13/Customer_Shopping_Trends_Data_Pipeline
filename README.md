@@ -90,8 +90,8 @@ Sebelum pipeline diotomasi, dilakukan eksplorasi data sederhana, data cleaning, 
 ## 1. Clone repository ini
 
 ```bash
-git clone https://github.com/kurniasuryab13/Customer_Shopping_Trends_Data_Pipeline.git
-cd Customer_Shopping_Trends_Data_Pipeline
+> git clone https://github.com/kurniasuryab13/Customer_Shopping_Trends_Data_Pipeline.git
+> cd Customer_Shopping_Trends_Data_Pipeline
 ```
 
 ## 2. Buat file `.env` di folder yang sama dengan `load.py`
